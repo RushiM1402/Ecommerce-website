@@ -2,7 +2,7 @@
 <html lang="en">
 <?php session_start() ?>
 <?php 
-	include 'header.php' 
+	include 'header.php' h
 ?>
 <body class="hold-transition layout-fixed layout-navbar-fixed layout-footer-fixed sidebar-collapse">
 <div class="wrapper">
